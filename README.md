@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi  <span><developers/></span>👋, I'm Mayur Chavan</h1>
+<h1 align="center">Hi "<"developers"/>"👋, I'm Mayur Chavan</h1>
 <h3 align="center">Final Year Electronics Student at VJTI,Mumbai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurchavan7&label=Profile%20views&color=0e75b6&style=flat" alt="mayurchavan7" /> </p>
