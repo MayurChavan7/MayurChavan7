@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/ba/0e/b8/ba0eb82dbe74fb21925083c2ea7475b4.jpg)
+
 <h1 align="center">Hi  <span><developers/></span>👋, I'm Mayur Chavan</h1>
 <h3 align="center">Final Year Electronics Student at VJTI,Mumbai</h3>
 
