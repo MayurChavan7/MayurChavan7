@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi👋 < <i>Developers</i> />, I'm Mayur Chavan</h1>
-<h3 align="center">Final Year Electronics Student at <a href="https://vjti.ac.in/"> VJTI </a>,Mumbai</h3>
+<h3 align="center">I'm a Electronics Engineering Undergraduate<a href="https://vjti.ac.in/"> at VJTI</a>,Mumbai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurchavan7&label=Profile%20views&color=0e75b6&style=flat" alt="mayurchavan7" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **MERN Development**
 
-- 📫 How to reach me **msrcp07@gmail.com**
+- 📫 How to reach me **mayurjob07@gmail.com**
 
 <h3 align="left">Connect with me:https://www.linkedin.com/in/mayurrchavan/</h3>
 <p align="left">
